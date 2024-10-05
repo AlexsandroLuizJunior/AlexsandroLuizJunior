@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/gist/AlexsandroLuizJunior/fac428ef043fbe4
 
 - 🔥 QA Tester Pleno & UI/UX Design por hobby
   
-- 🔭 Eu trabalho na [w a Tecnologia e Consultoria em TI]
+- 🔭 Eu trabalho na [W A Tecnologia e Consultoria em TI]
   
 - 👨‍💻 Um dos meus melhores projetos [em breve...]
   
